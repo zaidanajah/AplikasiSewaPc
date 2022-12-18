@@ -1,0 +1,1 @@
+copy folder sewa_pc ke directory xampp/mysql/data
